@@ -13,7 +13,7 @@ class Guvi
 			t1=t2;
 			t2=t3;
 			t3=t1+t2;
-			System.out.println(t1);
+			System.out.println(t1+" ");
 		}
 	}
 }
